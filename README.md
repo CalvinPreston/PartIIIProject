@@ -9,3 +9,4 @@ The project consisted of three main stages:
   
   3: Discuss implications of this for formation of structure and evolution in the universe
  
+The main MCMC analysis used Fortran (courtesy of Fahran Feroz and Mike Hobson). The plotting of confidence maps were done with GetDist.py (courtesy of Antony Lewis).
